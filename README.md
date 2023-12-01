@@ -14,4 +14,5 @@ Craig has been Involved in the outdoors industry for a number of years, working 
 Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
 Personal Website: [Home Page](http://craigansell.uk)
+
 LinkedIn Profile: [linkedin](http://www.linkedin.com/in/craigansell)
