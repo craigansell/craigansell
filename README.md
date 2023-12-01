@@ -15,4 +15,4 @@ Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
 Personal Website: [Home Page](http://craigansell.uk)
 
-LinkedIn Profile: [linkedin](http://www.linkedin.com/in/craigansell)
+LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
