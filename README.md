@@ -17,7 +17,7 @@ Personal Website: [Home Page](http://craigansell.uk)
 
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 
-<img align="right" width="260" src="https://cdn5.vectorstock.com/i/1000x1000/03/74/cartoon-programmer-vector-1320374.jpg">
+<img align="right" width="260" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craigansell&show_icons=true&locale=en" alt="craigansell" /></p>
 
