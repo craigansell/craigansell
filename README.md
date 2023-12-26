@@ -16,3 +16,5 @@ Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 Personal Website: [Home Page](http://craigansell.uk)
 
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craigansell&show_icons=true&locale=en" alt="craigansell" /></p>
