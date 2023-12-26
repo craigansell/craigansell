@@ -17,4 +17,6 @@ Personal Website: [Home Page](http://craigansell.uk)
 
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=craigansell" alt="craigansell" /></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craigansell&show_icons=true&locale=en" alt="craigansell" /></p>
