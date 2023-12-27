@@ -1,6 +1,6 @@
 # Introduction
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=craigansell.craigansell" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=craigansell.craigansell" />
 <br>
 Craig has been Involved in the outdoors industry for a number of years, working in employed and voluntary roles.
 
