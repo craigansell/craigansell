@@ -18,6 +18,12 @@ Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 Personal Website: [Home Page](http://craigansell.uk)
 
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c++,VB,Linux" />
+  </a>
+</p>
 
 <img align="right" width="255" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
