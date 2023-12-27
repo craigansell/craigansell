@@ -1,5 +1,7 @@
 # Introduction
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=craigansell.visitor-badge)
+
 Craig has been Involved in the outdoors industry for a number of years, working in employed and voluntary roles.
 
 - Mountain Training Profile: [115179](https://mt.tahdah.me/profile/index/115179)
