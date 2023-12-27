@@ -21,7 +21,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c++,VB,Linux" />
+    <img src="https://skillicons.dev/icons?i=github,docker,bash,cloudflare,dotnet,html,py," />
   </a>
 </p>
 
